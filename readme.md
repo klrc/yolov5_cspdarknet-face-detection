@@ -1,4 +1,4 @@
-# yolov5_cspdarknet-face-detection
+# yolov5_cspdarknet-face-detection-with-attributes
 
 ## 运行demo
 ```shell
