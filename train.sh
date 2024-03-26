@@ -1,0 +1,12 @@
+python trainer.py \
+--device_id cuda \
+--pretrained_pt_path /home/han.sun/Downloads/f041c0.pt \
+--trainset_path /home/han.sun/datasets/relative_human_mixed_0124/images/train \
+--valset_path /home/han.sun/datasets/relative_human_mixed_0124/images/val \
+--batch_size 64 \
+--max_epochs 150 \
+--ema_enabled \
+--autocast_enabled \
+--wandb_enabled \
+--early_stop \
+--cos_lr
