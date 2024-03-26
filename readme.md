@@ -1,4 +1,4 @@
-# Face Detection 人脸目标检测
+# yolov5_cspdarknet-face-detection
 
 ## 运行demo
 ```shell
